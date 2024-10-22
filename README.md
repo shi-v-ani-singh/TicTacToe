@@ -1,6 +1,3 @@
-Got it! Here’s a more concise version of the README:
-
-```markdown
 # Tic Tac Toe 🎮
 
 A simple **Tic Tac Toe** game built with **HTML**, **CSS**, and **JavaScript**. Play against a friend and enjoy some classic fun!
@@ -22,8 +19,4 @@ A simple **Tic Tac Toe** game built with **HTML**, **CSS**, and **JavaScript**. 
    ```
 2. **Open `index.html`** in your browser to play!
 
-## Author
-Created by [Shivani](https://github.com/your-username)
-```
 
-Short and sweet! Perfect for a quick overview of your project. 😄

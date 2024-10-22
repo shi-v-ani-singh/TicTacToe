@@ -19,4 +19,7 @@ A simple **Tic Tac Toe** game built with **HTML**, **CSS**, and **JavaScript**. 
    ```
 2. **Open `index.html`** in your browser to play!
 
+## Author
+Created by [Shivani](https://github.com/shi-v-ani-singh)
+
 
